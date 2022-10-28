@@ -22,11 +22,11 @@ th, td{
     padding:10px;
 }
 
-td:nth-child(3){
+tr:nth-child(3){
     background-color: #f2f2f2;
-    color:rgb(147,200,44)
+    color:rgb(147,200,44);
 }
 
-body table tr,:nth-child(4){
+tr,:nth-child(3){
     border:3px solid rgb(0, 128, 0);
 }
